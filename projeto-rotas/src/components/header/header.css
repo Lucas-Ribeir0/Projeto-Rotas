@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100vw;
+    height: 6.9vh;
+    background-color: gray;
+}
+.header ul {
+    padding-top: 1.8vh;
+}
+
+.header ul li {
+    display: inline;
+    margin: 10px;
+    padding: 1.8vh;
+}
+
+a:hover {
+    color: #555;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.HRL {
+    background-color: green;
+}
+
+.SZK {
+    background-color: pink;
+}
+
+.HND {
+    background-color: lightblue;
+}
+
+.YMH {
+    background-color: yellow;
+}
+
+.LBT {
+    background-color: white;
+}
