@@ -10,7 +10,7 @@ export default function p1() {
         <div>
           <Header />
         </div>
-        <div>
+        <div class="HND">
           <Titulo texto="Classe da Moto"/>
         </div>
       </div>
