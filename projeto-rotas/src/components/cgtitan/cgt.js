@@ -10,7 +10,7 @@ export default function p3() {
       <div>
         <Header />
       </div>
-      <div>
+      <div className="HND">
         <Titulo texto="Peças CG Titan"/>
       </div>
   </div>
